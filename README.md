@@ -1,6 +1,9 @@
-# Selenium project with Python
+# Python projects
 
-This repository contains contents to develop many kinds of code with [selenium](https://pypi.org/project/selenium/). The selenium package is used to automate web browser interaction from Python.
+This repository contains materials to develop several projects with python programming language. 
 
-# Reference
-- https://www.youtube.com/watch?v=a2ul3vEXSOI&list=PLuJJZ-W1NwdoTS0UXLUZoPH7GQ0kURHgH
+1. Selenium web scrapper
+
+2. Slack bot
+
+3. Face recognition
